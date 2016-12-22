@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': 'eslint-config-common',
+  'extends': '@eslint/eslint-config-common',
   'rules': {
     'global-require': [0],
 
