@@ -1,6 +1,6 @@
 {
   "name": "@eslint/eslint-config-server",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Eslint config server package",
   "main": "index.js",
   "repository": {
