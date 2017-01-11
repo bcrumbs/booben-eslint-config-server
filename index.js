@@ -12,7 +12,10 @@ module.exports = {
       'imports': 'always-multiline',
       'exports': 'always-multiline',
       'functions': 'never',
-    }]
+    }],
+  
+    // Added by Dmitriy Bizyaev on 11.01.2017
+    'no-console': [0],
   },
   'env': {
     'node': true
