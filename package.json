@@ -1,6 +1,6 @@
 {
   "name": "@eslint/eslint-config-server",
-  "version": "0.2.2",
+  "version": "0.3.2",
   "description": "Eslint config server package",
   "main": "index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "author": "Oleg Nosov <nosov@ordbuy.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "@eslint/eslint-config-common": "^0.2.0"
+    "@eslint/eslint-config-common": "^0.3.1"
   },
   "nyc": {
     "sourceMap": false,
