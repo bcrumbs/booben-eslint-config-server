@@ -1,21 +1,17 @@
 {
-  "name": "@eslint/eslint-config-server",
+  "name": "booben-eslint-config-server",
   "version": "0.3.3",
   "description": "Eslint config server package",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@gitlab.ordbuy.com:29184/Nosov/eslint-config-server.git"
-  },
   "keywords": [
     "eslint",
     "config",
     "server"
   ],
-  "author": "Oleg Nosov <nosov@ordbuy.com>",
-  "license": "UNLICENSED",
+  "author": "braincrumbs.io",
+  "license": "MIT",
   "dependencies": {
-    "@eslint/eslint-config-common": "^0.3.2"
+    "booben-eslint-config-common": "^0.3.2"
   },
   "nyc": {
     "sourceMap": false,
